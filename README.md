@@ -9,6 +9,8 @@ My Biggest Flaw is a creative web project that recreates the iconic Star Wars op
 ### Screenshot
 <img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/85c44ca1-fd54-4d43-b72b-cadc79818bc0" />
 
+## Demo link
+https://suhanisehrawatcute-dev.github.io/My-biggest-flaw/
 
 ## Getting Started
 
