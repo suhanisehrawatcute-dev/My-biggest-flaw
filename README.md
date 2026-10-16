@@ -1,13 +1,13 @@
 # My Biggest Flaw
 
-A Star Wars-inspired animated poem about wanting magic, adventure, and a life beyond the mundane.
+A Star Wars-inspired animated poem about wanting magic and adventure.
 
 ## Description
 
-My Biggest Flaw is a creative web project that recreates the iconic Star Wars opening crawl using HTML and CSS. It features a starfield background, an animated opening text sequence, a title card, and a scrolling yellow text crawl. The crawl presents a poem about the desire to experience magic, explore the world, take risks, and live an adventurous life instead of following an ordinary routine.
+My Biggest Flaw is a creative web project that recreates the iconic Star Wars opening crawl using HTML and CSS. It features a starfield background, an animated opening text sequence, a title card, and a scrolling yellow text crawl. The crawl presents a poem about the desire to experience magic, explore the world, take risks, and live an adventurous life instead of following an ordinary job.
 
 ### Screenshots
-At least one relevant screenshot of the program.
+
 
 ## Getting Started
 
@@ -35,7 +35,3 @@ Any advice for common problems or issues.
 * If the styling does not appear, check that `style.css` is linked correctly.
 * If the background does not load, check your internet connection.
 * If the animation does not work, check the CSS animation names and timing.
-
-## License
-
-This project is not currently distributed under a specified license.
